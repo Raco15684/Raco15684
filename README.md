@@ -11,3 +11,12 @@ Hacer el cierre de la presentación invitando a contactar...
 
 ## Hobbies
 - Programar páginas web
+
+## Technologies
+- HTML
+- CSS
+- JS
+
+## Skills 
+- Programming
+
