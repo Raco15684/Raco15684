@@ -9,6 +9,11 @@ Escribir sobre nosotros...
 
 Hacer el cierre de la presentación invitando a contactar...
 
+<<<<<<< HEAD
+## Languages
+- Spanish
+- English
+=======
 ## Hobbies
 - Programar páginas web
 
@@ -20,3 +25,4 @@ Hacer el cierre de la presentación invitando a contactar...
 ## Skills 
 - Programming
 
+>>>>>>> 1e3e7f33e519e6176f107cba895d37c1b07d1736
